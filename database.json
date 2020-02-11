@@ -40,19 +40,19 @@
         {
             "id": 1,
             "name": "Pronghorn",
-            "os": "Mac OSX",
+            "system": "Macbook Pro",
             "year": 2006
         },
         {
             "id": 2,
             "name": "Dromedary",
-            "os": "HP Inspiron 9000",
+            "system": "HP Inspiron 9000",
             "year": 2005
         },
         {
             "id": 3,
             "name": "Frigatebird",
-            "os": "Packard Bell D160",
+            "system": "Packard Bell D160",
             "year": 1995
         }
     ]
