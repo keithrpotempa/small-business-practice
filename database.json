@@ -1,0 +1,59 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "fname": "Charlie",
+            "lname": "Chocolate",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "fname": "Noodle",
+            "lname": "McDoodle",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "fname": "Darby",
+            "lname": "Stoffington",
+            "departmentId": 1,
+            "computerId": 3
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "IT"
+        },
+        {
+            "id": 2,
+            "name": "R&D"
+        },
+        {
+            "id": 3,
+            "name": "Food Science"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "Pronghorn",
+            "os": "Mac OSX",
+            "year": 2006
+        },
+        {
+            "id": 2,
+            "name": "Dromedary",
+            "os": "HP Inspiron 9000",
+            "year": 2005
+        },
+        {
+            "id": 3,
+            "name": "Frigatebird",
+            "os": "Packard Bell D160",
+            "year": 1995
+        }
+    ]
+}
